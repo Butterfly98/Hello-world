@@ -1,5 +1,5 @@
 # Hello-world
 first repository
 
-Hello! I am new to the world of web development.
-This seemed like a good place to start.
+Hello World! I am new to web development.
+This seemed like an important place to get familiar with.
